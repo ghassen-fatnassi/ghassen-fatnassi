@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on various software-projects including replicating resnet,resnext and densenet Models
+- 🌱 I’m currently trying to learn as much as i can about algorithms for my competitve programming journey and also expanding my knowledge in AI and especially in computer vision
+- 📫 How to reach me? ::  check my profile social links
 <!--
 **ghassen-fatnassi/ghassen-fatnassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
