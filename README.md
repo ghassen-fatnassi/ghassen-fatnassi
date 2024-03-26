@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I'm Ghassen Fatnassi && I really strive to reach optimal in everything I make
 - 🔭 I’m currently working on various software-projects including replicating resnet,resnext and densenet Models
 - 🌱 I’m currently trying to learn as much as i can about algorithms for my competitve programming journey and also expanding my knowledge in AI and especially in computer vision
 - 📫 How to reach me? ::  check my profile social links
