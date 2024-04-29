@@ -1,18 +1,14 @@
-### Hi there 👋  I'm Ghassen Fatnassi && I really strive to reach optimal in everything I make
-- 🔭 I’m currently working on various software-projects including replicating resnet,resnext and densenet Models
-- 🌱 I’m currently trying to learn as much as i can about algorithms for my competitve programming journey and also expanding my knowledge in AI and especially in computer vision
-- 📫 How to reach me? ::  check my profile social links
-<!--
-**ghassen-fatnassi/ghassen-fatnassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Ghassen Fatnassi, a software enthusiast passionate about AI and computer vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Up To
+
+- 🔭 Currently working on replicating ResNet, ResNeXt, and DenseNet models.
+- 🌱 Learning algorithms for competitive programming and expanding expertise in AI, especially in computer vision.
+- 🚀 Actively contributing to various software projects.
+- 📊 Have experience with LaTeX for creating technical documents.
+- 💼 Seeking opportunities to apply my skills in software development and AI.
+- 💬 Ask me about: Software development, AI, Computer vision.
+- 📫 How to reach me: Check out my profile's social links.
+
