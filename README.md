@@ -12,10 +12,9 @@ I'm Ghassen Fatnassi, passionate about AI ,Algorithms and Visualizations.
 
 ## AI Expertise
 
-- 🤖 Familiar with ML algorithms: supervised, unsupervised, reinforcement learning.
-- 🧠 Develop AI models: image classification, object detection, NLP.
-- 🎓 Continuously learn AI advancements, use TensorFlow, PyTorch.
-- 💻 Involved in AI projects for real-world problem-solving.
+- 🤖 Familiar with ML algorithms: supervised, unsupervised, reinforcement learning, Deep Learning and newly introduced to Transformer architecture.
+- 🧠 Developed AI models: image classification.
+- 🎓 Continuously learn AI advancements using PyTorch.
 
 ## Competitive Programming Expertise
 
