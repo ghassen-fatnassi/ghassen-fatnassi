@@ -22,7 +22,5 @@ I'm Ghassen Fatnassi, passionate about AI ,Algorithms and Visualizations.
 - 💻 Actively compete to enhance problem-solving skills.
 
 
-## Reach me
--💼 Seeking opportunities in software development and AI.
--📫 Check out my profile's social links.
+## Reach me 👋
 
