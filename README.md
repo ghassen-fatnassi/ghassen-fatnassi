@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ghassen Fatnassi, passionate about AI and competitive programming.
+I'm Ghassen Fatnassi, passionate about AI ,Algorithms and Visualizations.
 
 ## What I'm Up To
 
