@@ -17,9 +17,8 @@ I'm Ghassen Fatnassi, passionate about AI ,Algorithms and Visualizations.
 ## Competitive Programming Expertise
 
 - 🏆 Solving algorithmic problems on platforms like Codeforces and CSES.
-- 🧠 Proficient in data structures, algorithms.
 - 🌟 Optimize solutions for time, space complexity.
-- 💻 Actively compete to enhance problem-solving skills.
+- 💻 Actively competing to enhance problem-solving skills.
 
 
 ## Reach me 👋
