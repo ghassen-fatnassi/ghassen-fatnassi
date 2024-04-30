@@ -7,8 +7,6 @@ I'm Ghassen Fatnassi, passionate about AI ,Algorithms and Visualizations.
 - 🔭 Replicating ResNet, ResNeXt, and DenseNet models.
 - 🔭 Experimenting to build an optimal model for brain tumor classification.
 - 🌱 Learning AI algorithms and expanding expertise in computer vision.
-- 💼 Seeking opportunities in software development and AI.
-- 📫 Reach me: Check out my profile's social links.
 
 ## AI Expertise
 
@@ -23,4 +21,6 @@ I'm Ghassen Fatnassi, passionate about AI ,Algorithms and Visualizations.
 - 🌟 Optimize solutions for time, space complexity.
 - 💻 Actively compete to enhance problem-solving skills.
 
-Feel free to reach out for discussions on software, computer vision, or competitive programming! 🚀
+
+💼 Seeking opportunities in software development and AI.  📫 Reach me: Check out my profile's social links.
+
