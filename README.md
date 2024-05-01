@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ghassen Fatnassi, passionate about AI ,Algorithms and Visualizations.
+I'm Ghassen Fatnassi,a 1st year engineering student in CS and ICT ,passionate about AI ,Algorithms and Visualizations.
 
 ## What I'm Up To
 
