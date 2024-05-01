@@ -7,11 +7,12 @@ I'm Ghassen Fatnassi, passionate about AI ,Algorithms and Visualizations.
 - 🔭 Replicating ResNet, ResNeXt, and DenseNet models.
 - 🔭 Experimenting to build an optimal model for brain tumor classification.
 - 🌱 Learning AI algorithms and expanding expertise in computer vision.
+- 🌟 Would love to find an opportunity to practice and learn reinforcement learning especially is robotics field
+
 
 ## AI Expertise
 
 - 🤖 Familiar with ML algorithms: supervised, unsupervised, reinforcement learning, Deep Learning and newly introduced to Transformer architecture.
-- 🧠 Developed AI models: image classification.
 - 🎓 Continuously learn AI advancements using PyTorch.
 
 ## Competitive Programming Expertise
