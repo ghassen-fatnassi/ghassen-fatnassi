@@ -13,12 +13,11 @@ I'm Ghassen Fatnassi,a 1st year engineering student in CS and ICT ,passionate ab
 ## AI Expertise
 
 - 🤖 Familiar with ML algorithms: supervised, unsupervised, reinforcement learning, Deep Learning and newly introduced to Transformer architecture.
-- 🎓 Continuously learn AI advancements using PyTorch.
+- 🎓 Consistently learning AI SOTA architechtures and implementing them using PyTorch.
 
 ## Competitive Programming Expertise
 
 - 🏆 Solving algorithmic problems on platforms like Codeforces and CSES.
-- 🌟 Optimize solutions for time, space complexity.
 - 💻 Actively competing to enhance problem-solving skills.
 
 
