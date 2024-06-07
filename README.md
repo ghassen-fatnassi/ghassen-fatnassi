@@ -4,15 +4,14 @@ I'm Ghassen Fatnassi,a 1st year engineering student in CS and ICT ,passionate ab
 
 ## What I'm Up To
 
-- 🔭 Replicating ResNet, ResNeXt, and DenseNet models.
-- 🔭 Experimenting to build a General & Minimal model for brain tumor classification.
-- 🌱 Learning AI algorithms and expanding expertise in computer vision.
-- 🌟 Would love to find an opportunity to practice and learn reinforcement learning especially is robotics field
+- 🔭 LEARNING AI from a research perspective , highly invested in computer vision , going into RL soon
+- 🔭 Learning software engineering.
+- 🌟 Would love to find an opportunity to practice and learn reinforcement learning especially is robotics field.
 
 
 ## AI Expertise
 
-- 🤖 Familiar with ML algorithms: supervised, unsupervised, reinforcement learning, Deep Learning and newly introduced to Transformer architecture.
+- 🤖 Familiar with ML algorithms: supervised, unsupervised,Deep Learning & very excited by novel architechtures, still competing with compute.
 - 🎓 Consistently learning AI SOTA architechtures and implementing them using PyTorch.
 
 ## Competitive Programming Expertise
