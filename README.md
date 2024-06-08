@@ -5,7 +5,7 @@ I'm Ghassen Fatnassi,a 1st year engineering student in CS and ICT ,passionate ab
 ## What I'm Up To
 
 - 🔭 LEARNING AI from a research perspective , highly invested in computer vision , going into RL soon
-- 🔭 Learning software engineering.
+- 🔭 Learning what interests me in software engineering.
 - 🌟 Would love to find an opportunity to practice and learn reinforcement learning especially is robotics field.
 
 
