@@ -11,7 +11,7 @@ I'm Ghassen Fatnassi,a 1st year engineering student in ICT ,passionate about AI 
 
 ## AI Expertise
 
-- 🤖 Familiar with ML algorithms: supervised, unsupervised,Deep Learning & very excited by novel architechtures, still competing with compute.
+- 🤖 Familiar with ML algorithms, very excited by novel architechtures, still competing with compute.
 - 🎓 Consistently learning AI SOTA architechtures and implementing them using PyTorch.
 
 ## Competitive Programming Expertise
