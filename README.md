@@ -13,4 +13,4 @@ I'm Ghassen Fatnassi, a 1st year engineering student in ICT, passionate about AI
 - 🤖 Familiar with ML algorithms and excited by novel architectures.
 - 🎓 Consistently learning SOTA AI architectures and implementing them using PyTorch.
 - 📚 Regularly reading new papers related to computer vision and RL.
-- 🛠️ Always investing time in understanding libraries like PyTorch for optimization.
+- 🛠️ Always investing time in understanding libraries like PyTorch & CUDA to learn how to find those little lines of code that can make my model go BRRRRRRRRRRRRR
