@@ -15,4 +15,3 @@ I'm Ghassen Fatnassi, a 1st year engineering student in ICT, passionate about AI
 - 📚 Regularly reading new papers related to computer vision and RL.
 - 🛠️ Always investing time in understanding libraries like PyTorch & CUDA to learn how to find those little lines of code that can make my model go BRRRRRRRRRRRRR
 
-https://drive.google.com/file/d/1QPt89v4My89y4wETBqDzDH9Ua9I8iOkn/view
