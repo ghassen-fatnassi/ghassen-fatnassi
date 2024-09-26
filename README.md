@@ -7,14 +7,13 @@ Engineering student bruteforcing AI from its 3 perspectives: MATH , SOFTWARE and
 - 🔥 Parallel computing and GPU workloads.
 - ⚙️  Reading about X-AI
 - 🚀 Tweaking loss functions to Distill large Models.
-- 🧠 Exploring LLMs and AI ideas.
-- 📈 Obsessed with backend performance hacks.
+- 🧠 Exploring LLMs and AI ideas, a BIG fan of transfomer circuits blogs by anthropic.
 
 ## My Playground
 
-- 💻 CUDA, kernels, and low-level ops.
 - 🔍 Deep learning theory and software.
 - 🎯 Competitive programming and algorithms: "if it's slow , it doesn't work".
+- 💻 CUDA, kernels, and low-level ops.
 - 🔧 Profiling hardware, crushing bottlenecks.
 - 📚 Reading, applying cutting-edge research.
 
