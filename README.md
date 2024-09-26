@@ -1,18 +1,25 @@
-# Hi there! 👋
+# Yo, I'm Ghassen Fatnassi 👋
 
-I'm Ghassen Fatnassi, a 1st year engineering student in ICT, passionate about AI, Algorithms, and Visualizations.
+Engineering student bruteforcing AI from its 3 perspectives: MATH , SOFTWARE and METAL.
 
-## What I'm Up To
+## What I’m Up To
 
-- 🔭 LEARNING AI from a research perspective, highly invested in computer vision, and diving into RL soon.
-- 🔭 Learning what interests me in software engineering.
-- 🌟 Seeking opportunities to practice and learn reinforcement learning, especially in robotics.
+- 🔥 Parallel computing and GPU workloads.
+- ⚙️  Reading about X-AI
+- 🚀 Tweaking loss functions to Distill large Models.
+- 🧠 Exploring LLMs and AI ideas.
+- 📈 Obsessed with backend performance hacks.
 
-## AI Expertise
+## My Playground
 
-- 🤖 Familiar with ML algorithms and excited by novel architectures.
-- 🎓 Consistently learning SOTA AI architectures and implementing them using PyTorch.
-- 📚 Regularly reading new papers related to computer vision and RL.
-- 🛠️ Always investing time in understanding libraries like PyTorch & CUDA to learn how to find those little lines of code that can make my model go BRRRRRRRRRRRRR
-- 📚 passionate about parallel computing
+- 💻 CUDA, kernels, and low-level ops.
+- 🔍 Deep learning theory and software.
+- 🎯 Competitive programming and algorithms: "if it's slow , it doesn't work".
+- 🔧 Profiling hardware, crushing bottlenecks.
+- 📚 Reading, applying cutting-edge research.
+
+## Looking for an opportunity to unleash 100% of my potential
+
+
+
 
