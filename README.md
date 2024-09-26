@@ -9,6 +9,14 @@ Engineering student bruteforcing AI from its 3 perspectives: MATH , SOFTWARE and
 - 🚀 Tweaking loss functions to Distill large Models.
 - 🧠 Exploring LLMs and AI ideas, a BIG fan of transfomer circuits blogs by anthropic.
 
+- ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![ISPC](https://img.shields.io/badge/ISPC-61DAFB?style=for-the-badge&logo=none&logoColor=white)
+- ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=white)
+
+
 ## My Playground
 
 - 🔍 Deep learning theory and software.
