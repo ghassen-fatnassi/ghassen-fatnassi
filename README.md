@@ -1,22 +1,28 @@
-# Yo, I'm Ghassen Fatnassi 👋
+# Yo, I'm Ghassen Fatnassi 👋  
 
-Engineering student bruteforcing AI from its 3 perspectives: MATH , SOFTWARE and METAL.
+## Background:
+- **2 years**: Heavy Math & Physics
+- **3 years**: ICT Engineering (CS, Signals, Math)
 
-I’m all about:
+## Approach:
+Exploring AI through:
+- **Math**
+- **Software**
+- **Hardware**
 
-🔥 Parallel Computing  
-⚙️ PyTorch Internals  
-🚀 Model Distillation  
-🧠 LLMs and AI Ideas  
-💻 Low-Level Optimizations  
+## Interests:
+- 🔥 Parallel Computing  
+- ⚙️ PyTorch Internals  
+- 🚀 Model Distillation  
+- 🧠 LLMs and AI Innovations  
+- 💻 Low-Level Optimizations  
 
-## My Tech Stack:
+## Tech Stack:
+- **CUDA**: GPU Computing  
+- **PyTorch**: Deep Learning  
+- **C++**: Performance Optimization  
+- **Git**: Version Control  
+- **ISPC**: Parallel Processing  
+- **Hugging Face**: LLMs  
 
-- **CUDA** for GPU computing  
-- **PyTorch** for deep learning  
-- **C++** for performance tuning  
-- **Git** for version control  
-- **ISPC** for parallel processing  
-- **Hugging Face** for LLMs  
-
-Let’s break things and build something awesome together!
+Let’s collaborate and build something awesome!
