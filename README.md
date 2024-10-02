@@ -2,7 +2,7 @@
 
 ## Background:
 - **2 years**: Heavy Math & Physics
-- **3 years**: ICT Engineering (CS, Signals, Math)
+- **3 years**: ICT Engineering (ALGORITHMS,COMPUTER ARCH, SIGNALS, MATH)
 
 ## Approach:
 Exploring AI through:
