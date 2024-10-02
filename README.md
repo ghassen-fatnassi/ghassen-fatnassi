@@ -1,27 +1,28 @@
 # Yo, I'm Ghassen Fatnassi 👋  
 
-## 📚 Background:
-I’ve spent 2 years diving deep into heavy math and physics 🧮, followed by 3 years studying ICT engineering (CS, Signals, Math) 💻.
+## Background:
+- **2 years**: Heavy Math & Physics
+- **3 years**: ICT Engineering (CS, Signals, Math)
 
-## 🤖 Approach:
-I explore AI through three perspectives:
-- 📐 **Math**: Exploring theoretical concepts
-- 💻 **Software**: Developing and optimizing code
-- 🖥️ **Hardware**: Diving into system-level details
+## Approach:
+Exploring AI through:
+- **Math**
+- **Software**
+- **Hardware**
 
-## 🌟 Interests:
+## Interests:
 - 🔥 Parallel Computing  
-- ⚙️ PyTorch Internals  ![PyTorch Logo](link-to-pytorch-logo)
+- ⚙️ PyTorch Internals  
 - 🚀 Model Distillation  
 - 🧠 LLMs and AI Innovations  
 - 💻 Low-Level Optimizations  
 
-## 🛠️ Tech Stack:
-- **CUDA** for GPU Computing ![CUDA Logo](link-to-cuda-logo)
-- **PyTorch** for Deep Learning ![PyTorch Logo](link-to-pytorch-logo)
-- **C++** for Performance Optimization ![C++ Logo](link-to-cpp-logo)
-- **Git** for Version Control ![Git Logo](link-to-git-logo)
-- **ISPC** for Parallel Processing ![ISPC Logo](link-to-ispc-logo)
-- **Hugging Face** for LLMs ![Hugging Face Logo](link-to-huggingface-logo)
+## Tech Stack:
+- **CUDA**: GPU Computing  
+- **PyTorch**: Deep Learning  
+- **C++**: Performance Optimization  
+- **Git**: Version Control  
+- **ISPC**: Parallel Processing  
+- **Hugging Face**: LLMs  
 
-Let’s collaborate and build something awesome! 🎉
+Let’s collaborate and build something awesome!
