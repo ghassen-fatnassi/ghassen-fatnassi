@@ -1,28 +1,19 @@
 # Yo, I'm Ghassen Fatnassi 👋  
 
-## Background:
-- **2 years**: Heavy Math & Physics
-- **3 years**: ICT Engineering (ALGORITHMS,COMPUTER ARCH, SIGNALS, MATH)
+| **Background**                                 | **Interests**                                  |
+|------------------------------------------------|------------------------------------------------|
+| 🎓 2 years: Math & Physics                     | 🔥 Parallel Computing                          |
+| 🎓 3 years: ICT Engineering                    | ⚙️ PyTorch Internals                            |
+|    (Algorithms, Computer Arch, Signals, Math)  | 🚀 Model Distillation                          |
+|                                                | 🏆 Competitive Programming                     |
+|                                                | 🧠 LLMs and AI Innovations                     |
+|                                                | 💻 Low-Level Optimizations                     |
 
-## Approach:
-Exploring AI through:
-- **Math**
-- **Software**
-- **Hardware**
+| **Tech Stack**                                 |                                                |
+|------------------------------------------------|------------------------------------------------|
+| 🖥️ **CUDA**: GPU Computing                     | **C++**: Performance Optimization              |
+| 🤖 **PyTorch**: Deep Learning                  | **Git**: Version Control                       |
+| 💡 **ISPC**: Parallel Processing               | **HF accelerate**: distributed settings        |
 
-## Interests:
-- 🔥 Parallel Computing  
-- ⚙️ PyTorch Internals  
-- 🚀 Model Distillation  
-- 🧠 LLMs and AI Innovations  
-- 💻 Low-Level Optimizations  
 
-## Tech Stack:
-- **CUDA**: GPU Computing  
-- **PyTorch**: Deep Learning  
-- **C++**: Performance Optimization  
-- **Git**: Version Control  
-- **ISPC**: Parallel Processing  
-- **Hugging Face**: LLMs  
-
-Let’s collaborate and build something awesome!
+🚀 **Let’s collaborate and build something awesome!**
