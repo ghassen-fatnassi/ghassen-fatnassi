@@ -6,7 +6,7 @@
 | 🎓 3 years: ICT Engineering                    | ⚙️ PyTorch Internals                            |
 |    (Algorithms, Computer Arch, Signals, Math)  | 🚀 Model Distillation                          |
 |                                                | 🏆 Competitive Programming                     |
-|                                                | 🧠 LLMs and AI Innovations                     |
+|                                                | 🧠 LLMs and AI Inference                       |
 |                                                | 💻 Low-Level Optimizations                     |
 
 | **Tech Stack**                                 |                                                |
