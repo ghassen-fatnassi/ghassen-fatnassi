@@ -5,11 +5,11 @@
 <style>
   .grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 1fr);
+    grid-template-columns: repeat(4, 200px);
+    grid-template-rows: repeat(4, 200px);
     gap: 0;
-    width: 100%;
-    height: 80vh;
+    width: 800px;
+    height: 800px;
   }
   .grid img {
     width: 100%;
