@@ -16,15 +16,15 @@
     <td><img src="download.jpeg" width="170" height="170" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/chiragml/Diffusion-Gif-Generator/main/out3.gif" width="170" height="170" /></td>
-    <td><img src="https://media.giphy.com/media/LEZcFaj2RWhS9vhuYj/giphy.gif" width="170" height="170" /></td>
-    <td><img src="https://media.giphy.com/media/xUA7b1J3rD6m0ZJpOE/giphy.gif" width="170" height="170" /></td>
-    <td><img src="https://media.giphy.com/media/TEFplLVRsTZ1FXb3oR/giphy.gif" width="170" height="170" /></td>
+    <td><img src="a85410f0-3984-42ef-a1dd-7e222e13ccac_1280x720.gif" width="170" height="170" /></td>
+    <td><img src="1_sXhYVFJRYTpmDHLb2PW5CA.gif" width="170" height="170" /></td>
+    <td><img src="distil_momentum1.gif" width="170" height="170" /></td>
+    <td><img src="https___www.notion.so_image_https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fd4ebb7bd-c6d6-4899-9213-fdd482d60c35%2Fa43fc2f5-c3a5-48e3-bd18-835f62567f8a%2Fdistribution_match.webp" width="170" height="170" /></td>
   </tr>
   <tr>
-    <td><img src="https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif" width="170" height="170" /></td>
-    <td><img src="https://media.giphy.com/media/5k4dgLkT60hJt6iWrM/giphy.gif" width="170" height="170" /></td>
-    <td><img src="https://media.giphy.com/media/TO9fX8AoLkIpZ1OCZW/giphy.gif" width="170" height="170" /></td>
-    <td><img src="https://media.giphy.com/media/PDJVABaMoOJ7P7oyXG/giphy.gif" width="170" height="170" /></td>
+    <td><img src="1xWkzextA9gqcqvPp3wZOFw.webp" width="170" height="170" /></td>
+    <td><img src="7d9b0b830632f1da9dd57c64a6fc3603.gif" width="170" height="170" /></td>
+    <td><img src="YRRq8o.gif" width="170" height="170" /></td>
+    <td><img src="RX_jMs.gif" width="170" height="170" /></td>
   </tr>
 </table>
