@@ -4,19 +4,15 @@
 
 <table>
   <tr>
-    <td><img src="1_RZnBSB3QpkIwFUTRFaWDYg.gif" width="50%" /></td>
-    <td><img src="bin_pack.gif" width="50%" /></td>
+    <td width="25%"><img src="1_RZnBSB3QpkIwFUTRFaWDYg.gif" width="100%" /></td>
+    <td width="25%"><img src="bin_pack.gif" width="100%" /></td>
+    <td width="25%"><img src="tsne.gif" width="100%" /></td>
+    <td width="25%"><img src="tsp.gif" width="100%" /></td>
   </tr>
   <tr>
-    <td><img src="humanoid-robot-walking.gif" width="50%" /></td>
-    <td><img src="isaacgymenvs-c2ab42ffc68a8e6399a0bf1b183b9e78.gif" width="50%" /></td>
-  </tr>
-  <tr>
-    <td><img src="tsne.gif" width="50%" /></td>
-    <td><img src="tsp.gif" width="50%" /></td>
-  </tr>
-  <tr>
-    <td><img src="wM4uDA.gif" width="50%" /></td>
-    <td><img src="download.jpeg" width="50%" /></td>
+    <td width="25%"><img src="humanoid-robot-walking.gif" width="100%" /></td>
+    <td width="25%"><img src="isaacgymenvs-c2ab42ffc68a8e6399a0bf1b183b9e78.gif" width="100%" /></td>
+    <td width="25%"><img src="wM4uDA.gif" width="100%" /></td>
+    <td width="25%"><img src="download.jpeg" width="100%" /></td>
   </tr>
 </table>
