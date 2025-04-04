@@ -1,6 +1,7 @@
 ## Hi! I'm Ghassen
 ## I do CS x AI
-### I'll skip the abstraction layer of language and tell you what I'm interested in / good at in one image
+### Skipping the abstraction layer of language
+### Here's what I'm interested in / good at in one single image
 
 <table style="width: 85%; margin: auto; border-collapse: collapse;">
   <tr>
