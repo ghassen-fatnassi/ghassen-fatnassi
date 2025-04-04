@@ -19,7 +19,7 @@
     <td style="padding: 0; border: none;"><img src="a85410f0-3984-42ef-a1dd-7e222e13ccac_1280x720.gif" width="170" height="170" /></td>
     <td style="padding: 0; border: none;"><img src="1_sXhYVFJRYTpmDHLb2PW5CA.gif" width="170" height="170" /></td>
     <td style="padding: 0; border: none;"><img src="distil_momentum1.gif" width="170" height="170" /></td>
-    <td style="padding: 0; border: none;"><img src="https___www.notion.so_image_https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fd4ebb7bd-c6d6-4899-9213-fdd482d60c35%2Fa43fc2f5-c3a5-48e3-bd18-835f62567f8a%2Fdistribution_match.webp" width="170" height="170" /></td>
+    <td style="padding: 0; border: none;"><img src="1719776690964.gif" width="170" height="170" /></td>
   </tr>
   <tr>
     <td style="padding: 0; border: none;"><img src="1xWkzextA9gqcqvPp3wZOFw.webp" width="170" height="170" /></td>
